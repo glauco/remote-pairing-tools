@@ -22,3 +22,9 @@
 
 * [tmate](https://tmate.io/)
 * [tmux](https://tmux.github.io/)
+
+## Text editors
+
+* [Neovim](https://neovim.io/)
+* [Vim](http://www.vim.org/)
+* [Spacemacs](http://spacemacs.org/)
