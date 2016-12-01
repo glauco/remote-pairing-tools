@@ -13,3 +13,7 @@
 ## VoIP
 
 * [Mumble](https://wiki.mumble.info/wiki/Main_Page)
+
+## Remote Desktop
+
+* [Chrome Remote Desktop](https://chrome.google.com/remotedesktop)
